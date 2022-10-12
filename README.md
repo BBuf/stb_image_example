@@ -14,3 +14,10 @@ make -j4
 
 后续提供和opencv对比的性能测试结果
 
+## Result
+
+![origin.jpg](image/zidane.jpg)
+
+->
+
+![resize.jpg](image/resize_out.jpg)
